@@ -1,0 +1,84 @@
+Data types:-
+Numeric data types 
+--> int, 
+float, 
+complex 
+integer are seen in apps called you tube linkedin instagram
+
+Float
+Float has a decimal points 
+
+Complex
+A imaginary value and predicting term
+
+Sequence data types 
+string 
+list
+tuple 
+
+String;-
+string is collection of characters enclosed with between single quotations or double quotations 
+mutable immutable 
+string is immutable property
+it is ordered 
+
+List:-
+List is collection of elements enclosed between enclosed with square braces 
+properties in list 
+list is mutable we can change the object references
+i can add delete 
+allows the duplicates 
+dynamically sized 
+list is heterogeneous 
+list is ordered 
+Ex insta post 
+
+Tuple:-
+Tuple is collection of elements with enclosed of parenthesis 
+list is immutable
+it allows duplicate
+it is fixed size or fixed data types
+its ordered
+it is heterogeneous
+
+Mapping data types
+set& Dictionary, Frozen set 
+
+Set:-
+set is collection of elements enclosed between curly braces
+we can add del
+It is mutable
+Don't allows duplicates 
+It is dynamically sized
+set is heterogeneous
+set is unordered unique thing 
+
+Dictionary:- 
+Dictionary is collection of key values pairs enclosed with curly braces
+It is ordered 
+i can add del
+dynamically sized
+heterogeneous
+allows duplicates  
+
+Frozen set:-
+fixed data 
+immutable
+removes duplicates
+
+Bullion values:-
+true or False 
+ 
+None data type:-
+Don't know what to add the data type
+ 
+
+
+
+list set dictionaries are mutable
+idle
+
+one data type to another data type 
+str
+bool
+complex
