@@ -1,0 +1,60 @@
+MODULES
+=======
+
+Module:
+A module is a file which consists of variables, functions and statements.
+
+Types of modules:
+1. Built-in modules
+2. User-defined modules
+
+To take Module 1 into Module 2, we use:
+
+Syntax:
+    import module_name
+
+Example:
+    import python_code
+
+
+Why modules?
+------------
+-> Reusability
+-> Reduce complexity
+-> Maintain the modularity
+
+
+1) Importing the entire module
+------------------------------
+
+import module_name as m
+
+Here, "as m" is an alias name (nickname).
+
+
+2) Importing a specific function
+---------------------------------
+
+from module_name import fun_name as f
+
+
+3) Multiple modules
+-------------------
+
+import module1, module2
+
+OR
+
+import module1
+import module2
+
+For creating a simple calculator :- 
+we need modules like 
+
+addition()
+subtraction()
+multiplication()
+division()
+
+later we import all this modules into,
+one single one and use it for calculator.
