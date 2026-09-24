@@ -16,6 +16,7 @@
 # print(employee1.emp_salaries())
 # #print(employee1.emp_salaries)
 
+##### Single Inheritance ##########
 class company: 
     def main_agenda(self):
         print("Abstract of company")
@@ -33,6 +34,8 @@ class cloud_company(company):
 c = cloud_company()
 c.main_agenda()
 c.cloud()
+
+
 
 class company: 
     def __init__(self,company_name,location,x):
